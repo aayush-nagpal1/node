@@ -1,6 +1,5 @@
 const message=function()  {
-    console.log("Welcome")
+    console.log("Welcome to NodeJS")
 };
 
-
-    setInterval(message,1500);
+    setInterval(message,2000);
